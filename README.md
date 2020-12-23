@@ -8,4 +8,3 @@
 - 🌏 Previously worked at TH Experiential, Long Story Studios, Tarski Technologies.
 - 📫 Reach me here: https://www.linkedin.com/in/syedadamemirputra/
 - ⚡️ Fun fact: I'm a National Fencer 🤺 and am originally from Malaysia 🇲🇾.
--->

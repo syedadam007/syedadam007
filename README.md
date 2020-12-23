@@ -1,7 +1,7 @@
 ### Hey Friend! ✨
 
 <!--
-**syedadam007/syedadam007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**syedadam007/syedadam007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Incoming Product Design Intern at Tesla and Facebook
 - 🖱 I’m currently learning React Native to launch my million dollar app idea.
